@@ -1,0 +1,4 @@
+Serval,The female serval is a medium-sized cat measuring 67 cm in head-body length.,Indya,2600.0,2600.0
+Squirel Monkey,This young male squirrel monkey is 25 cm long with a 35 cm tail. He weighs 750 grams.,Jym,8800.0,8800.0
+Hyacinth Macaw,This male hyacinth macaw is the largest parrot by length in the world. He is 100 cm.,jh3,34444.0,34444.0
+
